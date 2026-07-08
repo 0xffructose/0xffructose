@@ -17,11 +17,11 @@ I build low-level, performance-oriented software — physics simulations, custom
 | Project | Description | Stack |
 |---|---|---|
 | **[fampp-core](https://github.com/0xffructose)** | Fast, minimal application stack built from scratch | Rust |
-| **2D Cloth Physics** | Real-time cloth simulation using constraint-based physics | C |
-| **2D Rope Physics** | Verlet-integration-based rope simulation | C |
-| **Verlet Integration** | General-purpose Verlet integrator for particle physics | C++ |
-| **Boids** | Classic flocking/swarm behavior simulation | C++ |
-| **3D Renderer** | Renderer built from first principles | Python |
+| **[2D Cloth Physics](https://github.com/0xffructose/2d-cloth-physics)** | Real-time cloth simulation using constraint-based physics | C |
+| **[2D Rope Physics](https://github.com/0xffructose/2d-rope-physics)** | Verlet-integration-based rope simulation | C |
+| **[Verlet Integration](https://github.com/0xffructose/verlet-integration)** | General-purpose Verlet integrator for particle physics | C++ |
+| **[Boids](https://github.com/0xffructose/boids)** | Classic flocking/swarm behavior simulation | C++ |
+| **[3D Renderer](https://github.com/0xffructose/3d-renderer)** | Renderer built from first principles | Python |
 
 *(Pinned repos are the best way to see these live — check my pinned section above 👆)*
 
@@ -35,7 +35,7 @@ I build low-level, performance-oriented software — physics simulations, custom
 
 I'm currently open to **contract / freelance work** in:
 - Game physics & simulation programming
-- Rust / C / C++ systems programming
+- C / C++ systems programming
 - Graphics & rendering
 
 If you're working on something in these areas and need an extra pair of hands, feel free to reach out.
@@ -43,6 +43,6 @@ If you're working on something in these areas and need an extra pair of hands, f
 ### 📫 Reach me
 
 - GitHub: [@0xffructose](https://github.com/0xffructose)
-- *(add your preferred contact — email, X/Twitter, Discord — here)*
+- X: [@0xffructose](https://x.com/0xffructose)
 
 <p align="center"><i>Turkey 🇹🇷</i></p>
